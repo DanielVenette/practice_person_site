@@ -1,0 +1,67 @@
+/******************************Tag Selectors*************************************/
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 1em;
+}
+
+
+h1 {
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5eml;
+    margin: 10px auto 10px auto;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/******************************Class Selectors***********************************/
+.top-container {
+    background-color: #E9E5D6;
+    position: relative;
+    padding-top: 100px;
+
+}
+
+.top-container h1 {
+    margin-top: 50px;
+    margin-bottom: 0;
+    margin-start: 0;
+    margin-end: 0;
+}
+
+.middle-container {
+    background-color: #ACB992;
+}
+
+.bottom-container {
+    background-color: #ACB992;
+}
+
+.engine {
+    text-decoration: underline;
+}
+
+.cloud_1 {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.cloud_2 {
+    position: absolute;
+    left: 24%;
+    bottom: 300px;
+}
+
+.section_pics {
+height: 150px;
+width: 150px;
+}
